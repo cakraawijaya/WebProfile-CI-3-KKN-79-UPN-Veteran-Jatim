@@ -12,8 +12,8 @@ It is a structured information media to make it easier for users to find out edu
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Framework | Bootstrap 5, CodeIgniter 3 |
-| Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
+| Framework | • Bootstrap 5<br>• CodeIgniter 3<br>• Font-Awesome |
+| Tools | • Visual Studio Code<br>• Xampp |
 
 <br><br>
 

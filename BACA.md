@@ -12,8 +12,8 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Kerangka Kerja | Bootstrap 5, CodeIgniter 3 |
-| Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+) |
+| Kerangka Kerja | • Bootstrap 5<br>• CodeIgniter 3<br>• Font-Awesome |
+| Peralatan | • Visual Studio Code<br>• Xampp |
 
 <br><br>
 
