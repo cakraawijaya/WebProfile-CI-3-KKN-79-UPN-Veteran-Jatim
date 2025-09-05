@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-IPR-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
+# Web Profile - CodeIgniter 3 - KKN 79 UPN Veteran Jatim
 Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam mengetahui informasi pendidikan yang berkaitan dengan pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan tentunya dapat menghemat waktu dalam mengakses informasi.
 
 <br><br>
