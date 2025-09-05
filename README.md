@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-IPR-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
+# Web Profile - CodeIgniter 3 - KKN 79 UPN Veteran Jatim
 It is a structured information media to make it easier for users to find out educational information related to community service. The features provided are very easy to use by users (user friendly) and can certainly save time in accessing information.
 
 <br><br>
